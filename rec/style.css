@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(151, 134, 134);
+    margin-left: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2, .carb-title, .dip-title, .pizza-title {
+    text-align: center;
+    color: rgba(99, 44, 44, 0.781);
+
+    
+}
+.carb-head, .dip-head, .pizza-head {
+    margin-top: 40px;
+    color: rgb(155, 7, 7);
+    text-align: center;
+}
+.carb-ing, .carb-step, .dip-ing, .dip-step {
+    color: rgb(255, 207, 73);
+    margin-left: 16px;
+}
+
+.pizza-ing, .pizza-step {
+    color: rgb(255, 207, 73);
+    margin-left: 16px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+    margin-left: 375px;
+}
